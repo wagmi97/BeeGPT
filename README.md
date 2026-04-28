@@ -1,6 +1,6 @@
  🐝 _______  _______  _______  _______  _______  _______  _______  _______  _______  _______ _______  _______  _______  _______  _______  _______  _______  _______  _______  _______
 
-# 🐝Bee
+# 🐝BeeGPT
 
 🐝Bee is a command line assistant that helps you with your daily tasks. I'm here to make your life easier! 🐝
 
