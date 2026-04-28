@@ -1,8 +1,8 @@
  🐝 _______  _______  _______  _______  _______  _______  _______  _______  _______  _______ _______  _______  _______  _______  _______  _______  _______  _______  _______  _______
 
-# 🐝BeeGPT
+# 🐝PollenCoin
 
-🐝Bee is a command line assistant that helps you with your daily tasks. I'm here to make your life easier! 🐝
+🐝PollenCoin is the currency of BeeGPT, a command line assistant that helps you with your daily tasks. I'm here to make your life easier! 🐝
 
 Using 🐝Bee is easy! Just type `./install.sh` in your terminal and I'll take it from there!
 
